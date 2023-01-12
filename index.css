@@ -1,0 +1,32 @@
+    *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+    body{
+        background-color: pink;
+        width: 100vw;
+        height: 100vh;
+    }
+    #imagen{
+        width: 50vw;
+        height: auto;
+        float: right;
+    }
+    img{
+        width: 80vw;
+        height: auto;
+        border: 5px solid green;
+    }
+    #distorsion{
+        width: 100vw;
+        height: 10vh;
+    }
+    ul,li{
+        display: inline;
+        background-color: black;
+        color: white;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    
